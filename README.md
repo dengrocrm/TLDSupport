@@ -1,3 +1,7 @@
+# Forked to support PHP8, this version is not actively maintained, consider to use https://github.com/jeremykendall/php-domain-parser as maintained alternative
+
+---
+
 # TLDSupport
 
 Support package for [TLDDatabase](https://github.com/layershifter/TLDDatabase) and [TLDExtract](https://github.com/layershifter/TLDExtract). This package provides helpers for work with arrays, IP addresses, strings and more.
